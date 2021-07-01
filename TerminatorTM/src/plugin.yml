@@ -1,8 +1,0 @@
-name: Terminatorremake
-version: 1.0.0
-author: Lightning
-description: owo
-main: me.lightning.terminator.Main
-commands:
-  opengui:
-  term:
